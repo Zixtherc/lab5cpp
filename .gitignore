@@ -1,0 +1,48 @@
+# Build output
+build/
+out/
+bin/
+obj/
+
+# Compiled objects and libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug and dependency files
+*.d
+*.pdb
+*.ilk
+*.gch
+*.pch
+
+# IDE and editor
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln.docstates
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Visual Studio build output
+x64/
+x86/
+ARM64/
+Debug/
+Release/
+*.vcxproj.user
